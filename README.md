@@ -1,5 +1,5 @@
 # hello-world
-Firts repository
+
 Hi World!
 
 My name is Tandi and I'm so excited to get started with this program. 
